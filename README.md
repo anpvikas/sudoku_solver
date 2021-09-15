@@ -1,8 +1,4 @@
-# sudoku_solver
-Sudoku Solver implemented in Python, using NumPy
-
 # Sudoku Solver
-
 
 This ReadME file explains the approach taken in order to write a program in python language to solve sudoku puzzles of varying difficulty levels. The submitted code is an attempt to implement the Constraint Satisfaction Problem algorithm using the backtracking method from the text-book (Russell, S., and Norvig, P. 2009. . Artificial Intelligence: a modern approach. Pearson).
 
