@@ -168,3 +168,8 @@ Finally, we need a funciton which returns the bactrack function and it gets call
      - Iterate over the inferences list to make value assignments to the variables
      - Get the new reduced list of variables and domains and recursively call the backtrack method
      - Return the result solution if not failure, else, revert the values assigned by inferences to 0 
+
+
+## Result Output
+
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
