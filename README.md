@@ -172,4 +172,4 @@ Finally, we need a funciton which returns the bactrack function and it gets call
 
 ## Result Output
 
-
+<img src="https://github.com/anpvikas/sudoku_solver/blob/main/Output.PNG">
